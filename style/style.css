@@ -77,8 +77,8 @@
   width: 884px;
   margin: 100px auto;
 }
-#card-box .info {
-}
+/* #card-box .info {
+} */
 #card-box .title {
   color: rgb(16, 16, 16);
   font-family: Work Sans;
@@ -125,10 +125,10 @@
   border-radius: 8px;
   background: rgba(82, 195, 3, 0.15);
 }
-.about
+/* .about
 {
   border: 2px solid red;
-}
+} */
 
 #about_us 
 {
